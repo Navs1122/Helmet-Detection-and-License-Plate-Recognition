@@ -1,4 +1,4 @@
-# 🪖 Helmet Detection and License Plate Recognition
+#  Helmet Detection and License Plate Recognition
 
 A Computer Vision project for automated traffic violation detection using **YOLOv5**, **CNN**, and **OCR**.
 
@@ -8,7 +8,7 @@ A Computer Vision project for automated traffic violation detection using **YOLO
 
 ---
 
-## 📌 Abstract
+## Abstract
 
 This project proposes an automated solution for enhancing road safety through:
 - **Helmet Detection** using YOLOv5
@@ -19,7 +19,7 @@ The system detects motorbike riders, checks for helmet compliance, extracts lice
 
 ---
 
-## 🏗️ System Architecture
+## System Architecture
 
 ```
 Input Image
@@ -39,7 +39,7 @@ Input Image
 
 ---
 
-## ⚙️ System Requirements
+## System Requirements
 
 ### Software
 - Python 3.12.3
@@ -53,7 +53,7 @@ Input Image
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 helmet-detection/
@@ -75,7 +75,7 @@ helmet-detection/
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### 1. Clone the Repository
 ```bash
@@ -107,7 +107,7 @@ python gui.py
 
 ---
 
-## 📊 Results
+## Results
 
 | Metric | Score |
 |--------|-------|
@@ -118,7 +118,7 @@ python gui.py
 
 ---
 
-## 🧪 Test Cases Summary
+## Test Cases Summary
 
 | Test Case | Description | Status |
 |-----------|-------------|--------|
@@ -130,7 +130,7 @@ python gui.py
 
 ---
 
-## 🔮 Future Scope
+## Future Scope
 
 - Integration with augmented reality and edge computing
 - Differentiation between helmet types
@@ -139,7 +139,7 @@ python gui.py
 
 ---
 
-## 📄 Publication
+## Publication
 
 **"Smart Approach for Helmet and Number Plate Detection Using ML"**  
 Published in ZKG International Journal  
@@ -147,7 +147,7 @@ Published in ZKG International Journal
 
 ---
 
-## 📚 References
+## References
 
 1. YOLO V4-based helmet detection — Bin Yang, Jie Wang (2022)
 2. Deep learning for motorcycle helmet detection — Hanhe Lin, Felix Siebert (2019)
