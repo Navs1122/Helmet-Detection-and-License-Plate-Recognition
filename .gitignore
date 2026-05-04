@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+venv/
+env/
+data/train/JPEGImages/
+data/test/
+data/*.record
+models/savedModel/
+outputs/
+.DS_Store
+*.log
+.vscode/
